@@ -2,7 +2,7 @@
 Collection of Rapidminer Processes for Training Processes
 
 ## Classification
-ITDS_TextMining
+ITDS_TextMining  
 Logistic Regression on Blog articles, Prediction of gender of author
 
 ## Clustering
@@ -13,9 +13,9 @@ Clustering of the IRIS Datasets with the follwing algorithms:
 - X-means
 - DBSCAN
 
-Performance measured with: 
+Performance measured with:   
 Centroid distance and Davies Bouldin
 
 
-ITDS_Web_TextClustering
+ITDS_Web_TextClustering  
 k-menoids Text Clustering of Wikipedia Documents
